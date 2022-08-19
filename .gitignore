@@ -137,3 +137,6 @@ dmypy.json
 ._.DS_Store
 .session_key.py
 
+__pycache__
+._.DS_Store
+.DS_Store
