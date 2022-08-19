@@ -17,7 +17,7 @@ CopyTemplate = input("Whose permissions to copy: ")
 Username = Firstname[0]+Lastname
 
 print("\n")
-print("Hi VIjay,\n")
+print("Hi ,\n")
 print( "Please create AD/VPN credentials for the following user: " + "\n")
 print("Username: " + Username)
 print("Full Name: " + Firstname + " " + Lastname)
